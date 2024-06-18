@@ -1,0 +1,4 @@
+.DS_Store
+*.pyc
+.Rproj.user
+data/new_lookit/~$lookit_blockbuilding_preprocessed_data.xlsx
