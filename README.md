@@ -43,7 +43,7 @@ Put your raw data files here. Any data wrangling to that file should happen in y
 
 There are subfolders for each experiment, containing raw data in table format.
 
-In the `box_drawing` subfolder, the data is split between two sheets, with the relevant differences being the date and the version of the script used. In `2024-05-29_box-drawing_pilot1_raw.csv', the table has the following columns:
+In the `box_drawing` subfolder, the data is split between two sheets, with the relevant differences being the date and the version of the script used. In both data sheets, the tables has the following columns:
 - `ID`, the first column, refers to the ID number assigned to the subject in that row. This number is determined by the order in which subjects participate; it is arbitrary for anything other than identification purposes.
 - `Sbj_initials`, the second column, contains the initials of the subject for that row. The convention is first initial and last initial, so for subjects with multiple last names, more than two letters may appear.
 - The `Date` column contains the date on which the subject participated in the study, written in MM/DD/YYYY format.
