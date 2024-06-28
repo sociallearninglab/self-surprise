@@ -69,6 +69,7 @@ In the `box_drawing` subfolder, the data is split between two sheets, with the r
 - The `Exploration_use_box` category signals whether a subject chose to use the box prop in the exploratory phase of the experiment. Empty cells in this column indicate that this column did not exist at the time of the experiment.
 - Lastly, the `Exploration_check_out_box` column indicates whether or not subjects chose to examine the box prop while left alone for the exploration phase. Similar to the previous column, blank cells in this column indicate that it was added after those experiments were run.
   
+
 In the `cards` subfolder, the data is contained in a sheet broken down into the following columns:
 * `ID`: see box_drawing (above) for explanation
 * `Sbj_initials`: see box_drawing (above) for explanation
@@ -89,6 +90,7 @@ In the `cards` subfolder, the data is contained in a sheet broken down into the 
 *  `Surprise_verbal_graded`: see box_drawing (above) for explanation
 *  `Picking_strategy`: subjects were asked to explain the strategy that they used to pick their cards. Their answers are summarized in this column.
 *  In the exploration phase of the cards experiment, subjects could choose to continue playing with the cards or to instead play with blocks. For script version 1.1 and 1.2,the blocks were a mix of metal and wood. From version 1.3 onwards, the blocks were wood only. The subjects played alone in the exploration phase. A `Yes` in the `Exploration_cards` column indicates that the subject chose to continue playing with the cards. A `Yes` in the `Exploration_blocks` column indicates that the subject chose to play with the blocks. It is possible to have a `Yes` in both columns, a `No` in both columns, or, most commonly, one of each.
+
 
 In the `jumping` subfolder, the data sheet is divided into the following columns:
 * `ID`: see box_drawing (above) for explanation
