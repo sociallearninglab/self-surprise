@@ -1,0 +1,12 @@
+ID,Subject_initials,Date,Experimenter_initials,Age in months,Gender,How high do you THINK you can reach when you jump?,Reach with extended arm WITHOUT jumping,Reach with extended arm WITH jumping,Other notes
+0 (Example),AB,04/18/2024,AA,57,M,60,45,52,Stood far away from wall when jumping
+1,JK,05/01/2024,CL,,F,44,48,52,
+2,JC,05/01/2024,ED,67,M,53,55,60,
+3,JH,05/01/2024,ED,67,M,58,53,59,
+4,ND,05/06/2024,ED,62,M,53,52,52,
+5,HY,05/06/2024,ED,51,F,45,50,55,
+6,DV,05/08/2024,CL,57,M,52,56,63,
+7,BKM,05/24/2024,ED,56,M,49,55,58,
+8,MRH,05/24/2024,ED,57,M,53,55,58,
+9,AR,05/24/2024,ED,58,F,48,50,57,
+10,,,,,,,,,

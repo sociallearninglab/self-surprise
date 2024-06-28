@@ -1,0 +1,23 @@
+ID,Sbj_initials,Date,Duration,Script version,Experimenter_initials,NOTES,Peeking?,Age_mos,Gender,Condition,Surprise_verbal,Surprise_verbal_graded,Surprise_why,Actual_performance,Surprise_expression,Exploration_drawing_game,Exploration_tracing_game,Exploration_use_box,Exploration_check_out_box
+0 (Example),AB,04/18/2024,4:15:00,v1.0,AA,,,57,M,0,Yes,A lot,"Drew without seeing, surprised still drew straight line",Success,Yes,Yes,No,,
+1,SS,05/01/2024,-,v1.0,ED,Camera did not record because SD card was full,,61,M,1,Yes,A lot,-,Fail,-,Yes,No,,
+2,JC,05/01/2024,4:04,v1.0,ED,,Yes,67,M,1,Yes,A lot,-,Fail,Yes,Yes,Yes,,
+3,JH,05/01/2024,5:07,v1.0,ED,,Yes,67,M,0,Yes,Medium,-,Success,No,Yes,Yes,,
+4,ND,05/06/2024,6:18,v1.0,ED,Started drawing before box was placed,Yes,62,M,0,No,-,-,Success,No,No,Yes,No,No
+5,HY,05/06/2024,4:29,v1.0,ED,Noticed difference in color of dots on drawing sheet and switch-out sheet,No,51,F,1,Yes,A lot,-,Success,No,Yes,No,Yes,No
+6,BKM,05/24/2024,3:45,v1.3,ED,Accidentally forgot to ask the child to remove their name tag,No,56,M,0,No,-,Not surprised because used the drawing guide,Success,No,Yes,No,Yes,No
+7,MRH,05/24/2024,4:33,v1.3,ED,,No,57,M,1,No,-,-,Fail,No,Yes,No,Yes,Yes
+8,AR,05/24/2024,4:04,v1.3,ED,,No,58,F,0,Yes,Very,Surprised the line is so straight,Success,No,Yes,No,Yes,No
+9,SMS,06/03/2024,4:02,v1.3,ED,Child began drawing before I placed the box over the sheet so I replaced the sheet with new one and then continued,Yes,43,F,1,Yes,Very,Surprised because she did it,Fail,No,Yes,No,Yes,No
+10,OS,06/03/2024,4:00,v1.3,ED,,Yes,60,F,0,Yes,Very,Surprised because it made a straight line,Success,No,No,No,No,No
+11,DA,06/03/2024,4:56,v1.3,ED,"When drawing line, child just scribbled back and forth",No,58,M,1,Yes,Very,Surprised because he made it,Fail,No,Yes,No,Yes,No
+12,MM,06/05/2024,7:20:00,v1.3,CL,Child asked to go to the bathroom during exploration phase -- resumed after she was done forgot to ask why she was surprised,No,55,F,1,Yes,Very,-,Fail,Yes,Yes,No,Yes,No
+13,SS,06/05/2024,4:18:00,v1.3,CL,forgot to ask why she was surprised,Yes,47,F,1,Yes,Very,-,Fail,Yes,No,Yes,No,No
+14,DV,06/05/2024,5:03:00,v1.3,CL,forgot to ask why he was surprised,No,58,M,1,Yes,"""A bunch""",-,Success,Yes,Yes,Yes,Yes,Yes
+15,WK,06/05/2024,5:51:00,v1.3,CL,"looked early, so we restarted. also he broke the crayons while I was gone forgot to ask why he was surprised",Yes,51,M,1,Yes,Really,-,Fail,Yes,No,No,No,Yes
+16,RN,06/07/2024,5:55:00,v1.3,CL,,No,49,M,0,No,-,"""I don't know!""",Success,No,No,Yes,No,No (but asked a question/inspected it when I came back)
+17,TM,06/07/2024,4:13:00,v1.3,CL,,No,69,M,0,Yes,A little,"""because I never drawed a straight line before""",Success,No,No,Yes,No,No
+18,VW,06/07/2024,3:48:00,v1.3,CL,,No,62,F,0,Yes,Really,"""Because I made the straight line""",Success,No,No,Yes,No,No
+19,NW,06/07/2024,5:13:00,v1.3,CL,,No,61,F,0,Yes,Pretty,Because it was her first time trying it,Success,No,Yes,No,Yes,No
+20,JL,06/07/2024,4:46,v1.3,ED,,No,56,F,0,Yes,Very,"""Because I like game rooms""",Success,No,No,No,No,No
+21,BC,06/07/2024,4:28,v1.3,ED,Child began drawing before I placed the box over the sheet so I replaced the sheet with new one and then continued,Yes,56,M,0,No,-,"""I don't know!""",Success,No,No,No,No,No

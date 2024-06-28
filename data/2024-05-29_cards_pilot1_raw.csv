@@ -1,0 +1,30 @@
+ID,Sbj_initials,Date,Duration,Script ver,Exp_initials,NOTES,Age,Gender,Cond_deck,No of star cards picked,Surprise_verbal,Surprise_verbal_graded,Picking_strategy,Exploration_cards,Exploration_blocks
+0 (Example),AB,03/04/2024,3:00:00,v1.1,AA,,57,M,No markers,-,Yes,Super,All the left ones,Y,N
+2,KL,03/07/2024,4:26:00,v1.1,AA,,59,M,No markers,-,Yes,Super,I don't know,N,Y
+3,MK,03/07/2024,5:01:00,v1.1,AA,Great example video for presentations!,51,F,No markers,-,Yes,Super,Guessing,Y,N
+4,AT,03/07/2024,5:13:00,v1.1,AA,Wanted to play with cards after the 1 minute mark (off camera),51,F,No markers,-,Yes,Super,I remembered,N,Y
+5,AeL,03/07/2024,5:24:00,v1.1,AA,,63,F,No markers,-,Yes,Super,I don't know,N,Y
+6,AF,03/08/2024,2:41:00,v1.1,ED,"Flipped over other cards after revealing the 4 selected and stated ""All of these have stars!""",55,M,No markers,-,No,-,Claimed he knew they were all stars,N,N
+7,ArL,03/12/2024,5:28:00,v1.2,AA,Participant chose unmarked cards,41,M,Markers,4,No,-,Just started picking them,N,Y
+8,ES,03/13/2024,4:06:00,v1.2,ED,Not all cards flipped in initial setup,55,F,Markers,4,Yes,Super,"Green squares, said could see stars once she started inspecting the cards",N,Y
+9,CC,03/13/2024,4:13:00,v1.2,ED,Not all cards flipped in initial setup,48,M,Markers,4,Yes,Super,Green squares,N,Y
+10,AH,03/12/2024,3:53:00,v1.2,ED,Not all cards flipped in initial setup,46,F,Markers,4,Yes,Super,Green squares,N,Y
+11,AK,03/13/2024,4:02:00,v1.2,ED,Not all cards flipped in initial setup,59,F,Markers,4,Yes,A little,Green squares,N,Y
+12,TJ,03/18/2024,4:58:00,v1.2,ED,,51,F,Markers,4,No,-,Green squares,N,Y
+13,MH,03/18/2024,4:54:00,v1.2,ED,,55,F,Markers,4,Yes,A lot,Said she could see the star cards,Y,N
+14,GC,03/18/2024,4:25:00,v1.2,ED,,64,F,Markers,4,No,-,Green squares,N,Y
+15,SB-O,03/27/2024,5:52:00,v1.2,AA,Open game room appt.,48,F,Markers,2,Yes,Super,I saw the little green things on them,N,Y
+16,ET,03/27/2024,4:20:00,v1.2,AA,Open game room appt.,36,F,Markers,1,No,-,Because they have [a marker],N,Y
+17,NB,03/27/2024,5:05:00,v1.2,AA,Open game room appt.,36,F,Markers,4,No,-,With a good vision,N,Y
+18,AD,03/27/2024,5:21:00,v1.2,AA,Open game room appt.,36,M,Markers,4,Yes,Super,Do that way (pointing gesture),N,Y
+19,JK,05/01/2024,7:12:00,v1.3,CL,,53,F,Markers,4,Yes,Sorta,The ones with the stars have stars on the back,N,Y
+20,GA,05/01/2024,1:33:00,v1.3,CL,"Forgot to take off nametag until partway in + We ran into his parent on the way to the game room, which made him a bit distracted. Exploration time was cut short.",41,M,Markers,4,No,-,Flipped them over and then turned them over,N,Y
+21,AR,05/08/2024,5:45:00,v1.4,CL,,56,M,Markers,4,Yes,A lot,He showed me the backs and said he looked at the stars on the back and knew they would have stars on the front,N,Y
+22,DV,05/08/2024,6:12:00,v1.4,CL,,57,M,Markers,4,No,-,"Said he couldn't remember -- but when I asked why he wasn't surprised, he had said that he could tell from the stars on the back",N,Y
+23,MM,05/13/2024,5:05:00,v1.4,CL,Exploration time cut short -- she asked for help making something with the blocks (45 seconds in),54,F,No markers,-,Yes,Very,She said she knew they would have stars on them because they had stars on them,N,Y
+24,LM,05/20/2024,5:18:00,v1.4,CL,,57,M,No markers,-,Yes,Very,He said he pointed at them,N,Y
+25,MM,05/22/2024,5:18:00,v1.4,CL,,56,F,No markers,-,Yes,Very,She said she pointed,Y,N
+26,FR,05/22/2024,5:23:00,v1.4,CL,,49,M,No markers,-,Yes,A lot,He pointed at each one and counted up to 17 to demonstrate for me,N,N
+27,GS,05/22/2024,5:20:00,v1.4,CL,,53,M,No markers,-,Yes,"Very, very, VERY",He said he thought of where he would be if he were a card,Y,N
+28,RM,05/22/2024,4:32:00,v1.4,CL,,45,M,No markers,-,No,-,"He said ""By pointing at them"" (The ones he picked were all in a row)",N,N
+29,,,,,,,,,,,,,,,

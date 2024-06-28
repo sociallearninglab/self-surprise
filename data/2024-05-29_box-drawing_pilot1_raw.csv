@@ -1,0 +1,12 @@
+ID,Sbj_initials,Date,Duration,Script version,Experimenter_initials,NOTES,Peeking?,Age_mos,Gender,Condition,Surprise_verbal,Surprise_verbal_graded,Surprise_why,Actual_performance,Surprise_expression,Exploration_drawing_game,Exploration_tracing_game,Exploration_use_box,Exploration_check_out_box
+0 (Example),AB,04/18/2024,4:15:00,v1.0,AA,,,57,M,0,Yes,A lot,"Drew without seeing, surprised still drew straight line",Success,Yes,Yes,No,,
+1,SS,05/01/2024,-,v1.0,ED,Camera did not record because SD card was full,,61,M,1,Yes,A lot,,Fail,-,Yes,No,,
+2,JC,05/01/2024,4:04,v1.0,ED,,Yes,67,M,1,Yes,A lot,,Fail,Yes,Yes,Yes,,
+3,JH,05/01/2024,5:07,v1.0,ED,,Yes,67,M,0,Yes,Medium,,Success,No,Yes,Yes,,
+4,ND,05/06/2024,6:18,v1.0,ED,Started drawing before box was placed,Yes,62,M,0,No,-,,Success,No,No,Yes,No,No
+5,HY,05/06/2024,4:29,v1.0,ED,Noticed difference in color of dots on drawing sheet and switch-out sheet,No,51,F,1,Yes,A lot,,Success,No,Yes,No,Yes,No
+6,BKM,05/24/2024,3:45,v1.3,ED,Accidentally forgot to ask the child to remove their name tag,No,56,M,0,No,-,Not surprised because used the drawing guide,Success,No,Yes,No,Yes,No
+7,MRH,05/24/2024,4:33,v1.3,ED,,No,57,M,1,No,-,-,Fail,No,Yes,No,Yes,Yes
+8,AR,05/24/2024,4:04,v1.3,ED,,No,58,F,0,Yes,Very,Surprised the line is so straight,Success,No,Yes,No,Yes,No
+9,,,,,,,,,,,,,,,,,,,
+10,,,,,,,,,,,,,,,,,,,
