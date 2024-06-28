@@ -90,6 +90,18 @@ In the `cards` subfolder, the data is contained in a sheet broken down into the 
 *  `Picking_strategy`: subjects were asked to explain the strategy that they used to pick their cards. Their answers are summarized in this column.
 *  In the exploration phase of the cards experiment, subjects could choose to continue playing with the cards or to instead play with blocks. For script version 1.1 and 1.2,the blocks were a mix of metal and wood. From version 1.3 onwards, the blocks were wood only. The subjects played alone in the exploration phase. A `Yes` in the `Exploration_cards` column indicates that the subject chose to continue playing with the cards. A `Yes` in the `Exploration_blocks` column indicates that the subject chose to play with the blocks. It is possible to have a `Yes` in both columns, a `No` in both columns, or, most commonly, one of each.
 
+In the `jumping` subfolder, the data sheet is divided into the following columns:
+* `ID`: see box_drawing (above) for explanation
+* `Subject_initials`: the same as `Sbj_initials` from cards and box_drawing
+* `Date`: see box_drawing (above) for explanation
+* `Experimenter_initials`: see box_drawing (above) for explanation
+* `Age in months`: same as `Age` and `Age_mos` columns from cards and box_drawing, respectively
+* `Gender`: see box_drawing (above) for explanation
+* In the `How high do you THINK you can reach when you jump?` column, subjects were asked the title question. The experimenter moved their hand progressively lower on a measuring tape afixed to the wall, and instructed subjects to tell them when to stop. The height, in inches, of the stopping point is recorded in this column.
+* In the `Reach with extended arm WITHOUT jumping` column, subjects were asked to stand next to the measuring tape and fully extend their arm upwards. The height, in inches, reached by the top of their hand is recorded in this column.
+* In the `Reach with extended arm WITH jumping` column, subjects were asked to repeat the procedure from the previous column but then, with their arm still extended, to jump vertically as high as they could. The height reach by their hand at the peak of their jump is recorded in this column.
+* The `Other notes` column is similar to the `NOTES` columns in cards and box_drawing; it is a space for the experimenter to take note of details that, while relevant, do not belong in any of the other columns.
+
 ### figures 
 
 Save all your figures here. You may want to include additional subfolder here such as `plots/`, `diagrams/` etc. 
