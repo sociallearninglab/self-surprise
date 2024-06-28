@@ -69,6 +69,26 @@ In the `box_drawing` subfolder, the data is split between two sheets, with the r
 - The `Exploration_use_box` category signals whether a subject chose to use the box prop in the exploratory phase of the experiment. Empty cells in this column indicate that this column did not exist at the time of the experiment.
 - Lastly, the `Exploration_check_out_box` column indicates whether or not subjects chose to examine the box prop while left alone for the exploration phase. Similar to the previous column, blank cells in this column indicate that it was added after those experiments were run.
   
+In the `cards` subfolder, the data is contained in a sheet broken down into the following columns:
+* `ID`: see box_drawing (above) for explanation
+* `Sbj_initials`: see box_drawing (above) for explanation
+* `Date`: see box_drawing (above) for explanation
+* `Duration`: see box_drawing (above) for explanation
+* The `Script ver` column serves the same purpose as the `Script Version` column from the box_drawing data sheets. The following are links to each existing task script for the card experiment:
+	* v1.2: https://docs.google.com/document/d/1xNwy87b9ELjgRmofi06195TBFM0YVWIVJW_4Ohpa5F8/edit
+	* v1.3: https://docs.google.com/document/d/14805mEIHWAD4M8qlzkz6L8BKoaDJQfoCx4QHU8YSsA4/edit
+	* v1.4: https://docs.google.com/document/d/1k-dNcLDtSVnJhCL8VQKgrWXMgpjnnfpYXExy--Hvpgg/edit
+ 	* v2.0: https://docs.google.com/document/d/1g8riSaudx332AjaqfXe0TQBnB11R8RLt2P0jhikpHRI/edit
+* `Exp_initials`: see `Experimenter_initials` decription from box_drawing (above) for explanation
+* `NOTES`: see box_drawing (above) for explanation
+* `Age`: see `Age_mos` category from box_drawing (above) for explanation
+* `Gender`: see box_drawing (above) for explanation
+* The `Cond_deck` category indicates which deck of cards was used for that subject. Both card decks used have 16 cards, four of which have stars on their fronts. The `No markers` option corresponds to a deck in which the backs of all 16 cards are identical, while the `Markers` answer indicates that the experiment used the control condition, a deck in which the four star cards are marked with star stickers on their backs.
+* The `No of star cards picked` indicates how many star cards the subject was able to correctly identify when given four tries to pick out a card, looking only at the backs of the cards. Subjects run in the experimental condition (`No markers`) have a dash for this column, because in their condition, the results of the game are rigged to result in four stars cards as a result every time. Subjects in the control condition (`Markers`) have an integer between 0 and 4 in this category, indicating the number of star cards they identified.
+*  `Surprise_verbal`: see box_drawing (above) for explanation
+*  `Surprise_verbal_graded`: see box_drawing (above) for explanation
+*  `Picking_strategy`: subjects were asked to explain the strategy that they used to pick their cards. Their answers are summarized in this column.
+*  In the exploration phase of the cards experiment, subjects could choose to continue playing with the cards or to instead play with blocks. For script version 1.1 and 1.2,the blocks were a mix of metal and wood. From version 1.3 onwards, the blocks were wood only. The subjects played alone in the exploration phase. A `Yes` in the `Exploration_cards` column indicates that the subject chose to continue playing with the cards. A `Yes` in the `Exploration_blocks` column indicates that the subject chose to play with the blocks. It is possible to have a `Yes` in both columns, a `No` in both columns, or, most commonly, one of each.
 
 ### figures 
 
